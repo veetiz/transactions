@@ -1,0 +1,19 @@
+{
+    "name": "samuel_r/laravel_transactions",
+    "description": "Laravel transactions integration",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SamuelR\\LaravelTransactions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "veetiz",
+            "email": "34392973+veetiz@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^11.6"
+    }
+}
