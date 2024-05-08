@@ -1,5 +1,5 @@
 {
-    "name": "samuel_r/laravel_transactions",
+    "name": "veetiz/transactions",
     "description": "Laravel transactions integration",
     "type": "library",
     "autoload": {
